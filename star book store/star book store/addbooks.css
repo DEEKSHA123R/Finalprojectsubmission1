@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-image: url("addbooks.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 250%;
+    height: 100%;
+    width: 100%;
+    margin-top: 150px;
+   }
+   #img{
+       margin-left: 80px;
+   }
+   form{
+       border-color:black;
+       border-width:.10em;
+       border-style: solid;
+   width: 300px;
+   height: 200px;
+   align-content: center;
+   margin-left: 500px;
+    }
+    .input-field{
+        margin-top: 15px;
+    }
+   label{
+       font-weight: 900;
+   }
